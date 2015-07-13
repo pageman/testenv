@@ -1,3 +1,3 @@
 
-FILE.open("09012013Avg") if FILE.exists?("09012013Avg")
+FILE.open("09012013Avg") if FILE.exist?("09012013Avg")
 
